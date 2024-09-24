@@ -10,11 +10,8 @@
         <h3>1. Visit Malaysia Tourism Website</h3>
         <p><strong>🌠 Star: </strong>⭐⭐⭐⭐</p>
         <p><strong>🗒️ Field: </strong>FrontEnd Development</p>
-
         <p><a href="https://kiaky0.github.io/Discover-Malaysia-Website/" target="_blank">Website Live</a></p>
-        
         <p><strong>Description:</strong> Do not hesitate to click on the live and visit the website.</p>
-
         <p><strong>Build By:</strong> HTML, CSS, JavaScript</p>
     </section>
 
