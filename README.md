@@ -27,6 +27,8 @@
 
 Description: 
 
+Language: Python
+
 <h3>3. Stock Management System</h3>
 <p><strong>🌠 Star:   </strong>⭐⭐⭐</p>
 <p><strong>🗒️ Field:  </strong>Object Oriented Programming (OOP)</p>
@@ -36,6 +38,7 @@ Description:
 
 Description: 
 
+Language: Java
 
 
 
