@@ -4,17 +4,19 @@
 
 - 📫 How to reach me **kiayeetan@gmail.com**
 
-<h1 align="center">📝 My Project Summary</h1>
+    <h1 align="center">📝 My Project Summary</h1>
 
-<h3>1. Visit Malaysia Tourism Website</h3>
-<p><strong>🌠 Star:   </strong>⭐⭐⭐⭐</p>
-<p><strong>🗒️ Field:  </strong>FrontEnd Development</p>
+    <section>
+        <h3>1. Visit Malaysia Tourism Website</h3>
+        <p><strong>🌠 Star: </strong>⭐⭐⭐⭐</p>
+        <p><strong>🗒️ Field: </strong>FrontEnd Development</p>
 
-[Website Live](https://kiaky0.github.io/Discover-Malaysia-Website/)
+        <p><a href="https://kiaky0.github.io/Discover-Malaysia-Website/" target="_blank">Website Live</a></p>
+        
+        <p><strong>Description:</strong> Do not hesitate to click on the live and visit the website.</p>
 
-Description: **Do not hesitate to click on the live and visit the website**.
-
-Build By: HTML,CSS,JavaScript
+        <p><strong>Build By:</strong> HTML, CSS, JavaScript</p>
+    </section>
 
 <br>
 
