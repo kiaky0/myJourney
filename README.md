@@ -17,7 +17,8 @@ Description: **Do not hesitate to click on the live and visit the website**.
 Build By: HTML,CSS,JavaScript
 
 <h3>2. Stock Management System</h3>
-<p><strong>Star:</strong>⭐⭐⭐</p>
+<p><strong>🌠 Star:   </strong>⭐⭐⭐</p>
+<p><strong>🗒️ Field:  </strong>Object Oriented Programming (OOP)</p>
 
 - Source Code: [SourceCode](https://github.com/kiaky0/Programming/tree/main/Utar_Project/StockManagement_source_code)
 - Video Presentation: [Drive](https://drive.google.com/file/d/1L6Da1WR9Dx66DrrJpRFq_umsqZf7i--y/view?usp=drive_link)
