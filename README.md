@@ -6,6 +6,14 @@
 
 <h1 align="center">📝 My Project Summary</h1>
 
+<h3>1. Stock Management System</h3>
+<p><strong>Star:</strong>⭐⭐⭐</p>
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
