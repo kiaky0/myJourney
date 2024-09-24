@@ -17,7 +17,15 @@
 
 <br>
 
-<h3>2. Stock Management System</h3>
+<h3>2. AI Model Train for prediction on Cardiovascular Disease</h3>
+<p><strong>🌠 Star:   </strong>⭐⭐⭐</p>
+<p><strong>🗒️ Field:  </strong>AI Model</p>
+
+- Random Forest Model: [RF Notebook](https://colab.research.google.com/github/kiaky0/Programming/blob/main/Utar_Project/AI%20model/Random_Forest.ipynb)
+
+Description: 
+
+<h3>3. Stock Management System</h3>
 <p><strong>🌠 Star:   </strong>⭐⭐⭐</p>
 <p><strong>🗒️ Field:  </strong>Object Oriented Programming (OOP)</p>
 
