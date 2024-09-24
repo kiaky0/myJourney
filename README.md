@@ -22,6 +22,8 @@
 <p><strong>🗒️ Field:  </strong>AI Model</p>
 
 - Random Forest Model: [RF Notebook](https://colab.research.google.com/github/kiaky0/Programming/blob/main/Utar_Project/AI%20model/Random_Forest.ipynb)
+- Decision Tree Model: [DT Notebook](https://colab.research.google.com/github/kiaky0/Programming/blob/main/Utar_Project/AI%20model/DecisionTree.ipynb)
+- SVM Model          : [SVM Notebook](https://colab.research.google.com/github/kiaky0/Programming/blob/main/Utar_Project/AI%20model/SVM.ipynb)
 
 Description: 
 
