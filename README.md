@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **kiayeetan@gmail.com**
 
-<h1 align="center">My Project Summary</h1>
+<h1 align="center">📝 My Project Summary</h1>
 
 
 <h3 align="left">Connect with me:</h3>
