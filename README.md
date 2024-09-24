@@ -16,6 +16,8 @@ Description: **Do not hesitate to click on the live and visit the website**.
 
 Build By: HTML,CSS,JavaScript
 
+<br>
+
 <h3>2. Stock Management System</h3>
 <p><strong>🌠 Star:   </strong>⭐⭐⭐</p>
 <p><strong>🗒️ Field:  </strong>Object Oriented Programming (OOP)</p>
