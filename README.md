@@ -7,9 +7,13 @@
 <h1 align="center">📝 My Project Summary</h1>
 
 <h3>1. Visit Malaysia Tourism Website</h3>
-<p><strong>Star:</strong>⭐⭐⭐</p>
+<p><strong>Star:</strong>⭐⭐⭐⭐</p>
 
 [Website Live](https://kiaky0.github.io/Discover-Malaysia-Website/)
+
+Description: **Do not hesitate to click on the live and visit the website**.
+
+Build By: HTML,CSS,JavaScript
 
 <h3>2. Stock Management System</h3>
 <p><strong>Star:</strong>⭐⭐⭐</p>
@@ -17,7 +21,7 @@
 - Source Code: [SourceCode](https://github.com/kiaky0/Programming/tree/main/Utar_Project/StockManagement_source_code)
 - Video Presentation: [Drive](https://drive.google.com/file/d/1L6Da1WR9Dx66DrrJpRFq_umsqZf7i--y/view?usp=drive_link)
 
-Description:
+Description: 
 
 
 
