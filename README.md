@@ -29,6 +29,14 @@ Description:
 
 Language: Python
 
+<h3>2a. AI Model Side Project</h3>
+<p><strong>🌠 Star:   </strong>⭐⭐⭐</p>
+<p><strong>🗒️ Field:  </strong>AI Model</p>
+
+- Deep Q-Learning: [Lunar Landing](https://colab.research.google.com/drive/1eteADIXvR9HFbcT6cIgxD3RTUOsg6y_j?usp=sharing)
+- Deep Convolutional Q-Learning: [Pec Man](https://colab.research.google.com/drive/1AyZZ2bLD4dPMD29Oq4yFBcmfY1AvAmXy)
+- A3C, Asynchronous Advantage Actor Critic: [Kung Fu](https://colab.research.google.com/drive/1Fo10hKQKsRTO2SbN5p5_HCtKISsGAboP)
+
 <h3>3. Stock Management System</h3>
 <p><strong>🌠 Star:   </strong>⭐⭐⭐</p>
 <p><strong>🗒️ Field:  </strong>Object Oriented Programming (OOP)</p>
