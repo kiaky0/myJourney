@@ -22,7 +22,11 @@
 <p><strong>🌠 Star:   </strong>⭐⭐⭐⭐</p>
 <p><strong>🗒️ Field:  </strong>Image Processing, OpenCV, Object Detection, AI Classification</p>
 
+Source Code:
+
 Description:
+
+<p><strong>Build By:</strong> C++, OpenCV</p>
 
 <br>
 
