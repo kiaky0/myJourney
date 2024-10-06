@@ -26,7 +26,7 @@
 - Decision Tree Model: [DT Notebook](https://colab.research.google.com/github/kiaky0/Programming/blob/main/Utar_Project/AI%20model/DecisionTree.ipynb)
 - SVM Model          : [SVM Notebook](https://colab.research.google.com/github/kiaky0/Programming/blob/main/Utar_Project/AI%20model/SVM.ipynb)
 
-Description: 
+Description: The objective of this project is to train machine learning models that can accurately predict the cardiovascular risk (low, medium, high) of an individual, using the information provided in the “dataset.csv” dataset. The results can be helpful for cardiovascular disease diagnosis and prevention. More description and explaination of the project can be found on [Medium](https://medium.com/@kiayeetan/cardiovascular-risk-prediction-using-machine-learning-a-comparative-analysis-of-ai-models-aea13ba15bbd)
 
 Language: Python
 
