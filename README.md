@@ -18,7 +18,16 @@
 
 <br>
 
-<h3>2. AI Model Train for prediction on Cardiovascular Disease</h3>
+<h3>2. Traffic Sign Detection for Autonomous Vehicles</h3>
+<p><strong>🌠 Star:   </strong>⭐⭐⭐⭐</p>
+<p><strong>🗒️ Field:  </strong>Image Processing, OpenCV, Object Detection, AI Classification</p>
+
+Description:
+
+<br>
+
+
+<h3>3. AI Model Train for prediction on Cardiovascular Disease</h3>
 <p><strong>🌠 Star:   </strong>⭐⭐⭐</p>
 <p><strong>🗒️ Field:  </strong>AI Model</p>
 
@@ -30,7 +39,7 @@ Description: The objective of this project is to train machine learning models t
 
 Language: Python
 
-<h3>2a. AI Model Side Project</h3>
+<h3>3a. AI Model Side Project</h3>
 <p><strong>🌠 Star:   </strong>⭐⭐⭐</p>
 <p><strong>🗒️ Field:  </strong>AI Model</p>
 
@@ -38,7 +47,7 @@ Language: Python
 - Deep Convolutional Q-Learning: [Pec Man](https://colab.research.google.com/drive/1AyZZ2bLD4dPMD29Oq4yFBcmfY1AvAmXy)
 - A3C, Asynchronous Advantage Actor Critic: [Kung Fu](https://colab.research.google.com/drive/1Fo10hKQKsRTO2SbN5p5_HCtKISsGAboP)
 
-<h3>3. Stock Management System</h3>
+<h3>4. Stock Management System</h3>
 <p><strong>🌠 Star:   </strong>⭐⭐⭐</p>
 <p><strong>🗒️ Field:  </strong>Object Oriented Programming (OOP)</p>
 
