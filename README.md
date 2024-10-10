@@ -16,6 +16,16 @@
         <p><strong>Build By:</strong> HTML, CSS, JavaScript</p>
     </section>
 
+<h3>1a. Frontend React Project</h3>
+    <section>
+        <p><strong>🌠 Star: </strong>⭐⭐</p>
+        <p><strong>🗒️ Field: </strong>FrontEnd Development</p>
+        <p><a href="https://github.com/kiaky0/ReactProjectLearning" target="_blank">React Project</a></p>
+        <p><strong>Description:</strong> This is a series of React Project for the extending and continuous learning of frontend project</p>
+        <p><strong>Build By:</strong> React</p>
+    </section>
+
+
 <br>
 
 <h3>2. Traffic Sign Detection for Autonomous Vehicles</h3>
