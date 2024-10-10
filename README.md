@@ -51,6 +51,8 @@ Language: Python
 - Deep Convolutional Q-Learning: [Pec Man](https://colab.research.google.com/drive/1AyZZ2bLD4dPMD29Oq4yFBcmfY1AvAmXy)
 - A3C, Asynchronous Advantage Actor Critic: [Kung Fu](https://colab.research.google.com/drive/1Fo10hKQKsRTO2SbN5p5_HCtKISsGAboP)
 
+<br>
+
 <h3>4. Stock Management System</h3>
 <p><strong>🌠 Star:   </strong>⭐⭐⭐</p>
 <p><strong>🗒️ Field:  </strong>Object Oriented Programming (OOP)</p>
@@ -58,7 +60,7 @@ Language: Python
 - Source Code: [SourceCode](https://github.com/kiaky0/Programming/tree/main/Utar_Project/StockManagement_source_code)
 - Video Presentation: [Drive](https://drive.google.com/file/d/1L6Da1WR9Dx66DrrJpRFq_umsqZf7i--y/view?usp=drive_link)
 
-**Description:** 
+**Description:** This is the team work project system with the use of Java language with the concept of object oriented programming. UI is design with the JavaFx Application framework. 
 
 **Language:** Java
 
