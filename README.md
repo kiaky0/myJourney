@@ -15,7 +15,7 @@
       <img
         width="850"
         src="https://github.com/user-attachments/assets/13ea06ce-f905-43d1-b219-3e42c42b4df9"
-      ><p>Click the pic</p>
+      >
     </a>
   </p>
   <br>
