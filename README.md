@@ -53,7 +53,7 @@
 <a href="https://youtu.be/nynLQI9d1wM" title="https://medium.com/@kiayeetan/traffic-sign-detection-image-processing-and-image-classification-d7e33397b8de"><strong>Traffic Sign Detection for Autonomous Vehicles</strong></a>
 <div><strong>Created: Jun 2024</strong> | <strong>Build By:</strong> C++, OpenCV</strong></div> 
 <br/>This is the project regarding object detection for traffic sign and processing the image through OpenCV. The AI model is trained and perform traffic sign classification task. Details description 
-can read through <a href="https://medium.com/@kiayeetan/traffic-sign-detection-image-processing-and-image-classification-d7e33397b8de"><p>Mdeium Blog</p></a>.
+can read through <a href="https://medium.com/@kiayeetan/traffic-sign-detection-image-processing-and-image-classification-d7e33397b8de">Mdeium Blog</a>
  </p> <br/>
 
 
