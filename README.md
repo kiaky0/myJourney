@@ -16,6 +16,9 @@
         <p><strong>Build By:</strong> HTML, CSS, JavaScript</p>
     </section>
 
+![image](https://github.com/user-attachments/assets/13ea06ce-f905-43d1-b219-3e42c42b4df9)
+
+
 <h3>1a. Frontend React Project</h3>
     <section>
         <p><strong>🌠 Star: </strong>⭐⭐</p>
