@@ -16,6 +16,8 @@
         <p><strong>Build By:</strong> HTML, CSS, JavaScript</p>
     </section>
 
+<a href="https://youtu.be/CilXrt3S-ws" title="How to Choose the Best Computer Vision Model for Your Project"><img src="https://github.com/roboflow/notebooks/assets/26109316/73a01d3b-cf70-40c3-a5e4-e4bc5be38d42" alt="How to Choose the Best Computer Vision Model for Your Project" width="300px" align="left" /></a>
+
 ![image](https://github.com/user-attachments/assets/13ea06ce-f905-43d1-b219-3e42c42b4df9)
 
 
