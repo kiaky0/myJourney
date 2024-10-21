@@ -27,6 +27,8 @@
     <p><strong>Description:</strong> Do not hesitate to click on the live and visit the website.</p>
     <p><strong>Build By:</strong> HTML, CSS, JavaScript</p>
 </section>
+
+<br>
     
 
 
