@@ -34,7 +34,10 @@
 
 [Source Code](https://github.com/kiaky0/Programming/tree/main/Utar_Project/TrafficSignDetection)
 
-**Description:**
+[Medium Blog](https://medium.com/@kiayeetan/traffic-sign-detection-image-processing-and-image-classification-d7e33397b8de)
+
+**Description:** This is the project regarding object detection for traffic sign and processing the image through OpenCV. The AI model is trained and perform traffic sign classification task. Details description 
+can read through [Medium Blog](https://medium.com/@kiayeetan/traffic-sign-detection-image-processing-and-image-classification-d7e33397b8de).
 
 <p><strong>Build By:</strong> C++, OpenCV</p>
 
