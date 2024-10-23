@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kia Yee</h1>
 <h3 align="center">A passionate programmar.</h3>
-<p>Year 3 Computer Science Student</p>
+<p>I am a <strong>Year 3 Computer Science Student</strong></p>
 
 
 - 📫 How to reach me **kiayeetan@gmail.com**
