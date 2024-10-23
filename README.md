@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Kia Yee</h1>
 <h3 align="center">A passionate programmar.</h3>
+<p>Year 3 Computer Science Student</p>
+
 
 - 📫 How to reach me **kiayeetan@gmail.com**
 - ✍️ I write something on [Medium](https://medium.com/@kiayeetan) Blog
