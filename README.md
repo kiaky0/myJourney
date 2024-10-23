@@ -4,6 +4,8 @@
 <h3 align="center">A passionate programmar.</h3>
 
 - 📫 How to reach me **kiayeetan@gmail.com**
+- ✍️ I write something on [Medium](https://medium.com/@kiayeetan) Blog
+- 🍀 Linkedin: https://www.linkedin.com/in/tan-kia-yee-8986701bb/
 
     <h1 align="center">📝 My Project Summary</h1>
     
