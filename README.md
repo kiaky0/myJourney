@@ -63,7 +63,7 @@ can read through <a href="https://medium.com/@kiayeetan/traffic-sign-detection-i
  </p> <br/>
 
 
-<h3>2a. Object Detection Project</h3>
+<h3>2a. Vehicle Counting</h3>
 <p><strong>🌠 Star:   </strong>⭐⭐</p>
 <p><strong>🗒️ Field:  </strong>Image Processing, OpenCV, Object Detection, Deep Learning</p>
 
@@ -75,6 +75,17 @@ can read through <a href="https://medium.com/@kiayeetan/traffic-sign-detection-i
 This is a project to perform object detection on the car and bus then perform vehicle counting on the vehicles.
  </p> <br/>
 
+<h3>2b. Parking Space Counter</h3>
+<p><strong>🌠 Star:   </strong>⭐⭐</p>
+<p><strong>🗒️ Field:  </strong>Image Processing, OpenCV</p>
+
+<p align="left">
+<a href="https://www.youtube.com/watch?v=Kryo30WU4Xk" title="Parking Space Counter Demo Video"><img src="https://github.com/kiaky0/myJourney/blob/main/Parking%20Space%20Counter.png" alt="Parking Space Counter demo video" width="300px" align="left" /></a>
+<a href="https://www.youtube.com/watch?v=Kryo30WU4Xk" title=""><strong>Parking Space Counter</strong></a>
+<div><strong>Build By:</strong> Python, OpenCV</strong></div> 
+<p>📜 Source Code: </strong><a href="https://github.com/kiaky0/Programming/tree/main/Parking%20Space">Source Code</a></p>
+This is a project by only using image processing method to realise the counting of parking slot without the use of deep learning and classification
+ </p> <br/>
 
 <br>
 
