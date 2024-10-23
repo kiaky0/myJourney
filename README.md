@@ -72,7 +72,7 @@ can read through <a href="https://medium.com/@kiayeetan/traffic-sign-detection-i
 <a href="https://www.youtube.com/watch?v=oKGvV7bGWGE" title=""><strong>YOLOv8 Vehicle Counting</strong></a>
 <div><strong>Build By:</strong> Python, OpenCV, YOLOv8</strong></div> 
 <p>📜 Source Code: </strong><a href="https://github.com/kiaky0/Programming/tree/main/yolov8-multiple-vehicle-class-main">Source Code</a></p>
-<br/> This is a project to perform object detection on the car and bus then perform vehicle counting on the vehicles.
+This is a project to perform object detection on the car and bus then perform vehicle counting on the vehicles.
  </p> <br/>
 
 
