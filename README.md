@@ -126,7 +126,7 @@ Language: Python
 
 <br>
 
-<h3>4. Theeme Park Database System</h3>
+<h3>4. Theme Park Database System</h3>
     <section>
         <p><strong>🌠 Star: </strong>⭐⭐⭐</p>
         <p><strong>🗒️ Field: </strong>Database System</p>
