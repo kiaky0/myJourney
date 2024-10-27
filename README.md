@@ -137,7 +137,7 @@ Language: Python
 
 <br>
 
-<h36. Cinima Ticketing System by C++</h3>
+<h3>6. Cinima Ticketing System by C++</h3>
     <section>
         <p><strong>🌠 Star: </strong>⭐⭐</p>
         <p><strong>🗒️ Field: </strong>C++ Programming</p>
