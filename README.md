@@ -124,6 +124,20 @@ Language: Python
 **Language:** Java
 
 
+<br>
+
+<h3>4. Theeme Park Database System</h3>
+    <section>
+        <p><strong>🌠 Star: </strong>⭐⭐⭐</p>
+        <p><strong>🗒️ Field: </strong>Database System</p>
+        <p><a href="https://github.com/kiaky0/ReactProjectLearning" target="_blank">SQL Script</a></p>
+        <p><strong>Description:This project aims to design a database system for The Big Dipper theme park, focusing on point-of-sale operations for games. This system will manage payments for tickets, memberships, prize redemptions, and support for customer gameplay. It will include queries, procedures, and functionalities to ensure smooth transactions and customer satisfaction, following strict rules to maintain data accuracy, consistency, and completeness.</p>
+        <p><strong>Build By:</strong> Oracle, mySQL</p>
+    </section>
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
