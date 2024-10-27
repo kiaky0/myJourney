@@ -130,12 +130,21 @@ Language: Python
     <section>
         <p><strong>🌠 Star: </strong>⭐⭐⭐</p>
         <p><strong>🗒️ Field: </strong>Database System</p>
-        <p><a href="https://github.com/kiaky0/ReactProjectLearning" target="_blank">SQL Script</a></p>
+        <p><a href="https://github.com/kiaky0/Programming/tree/main/Theme_Park_Database_System" target="_blank">SQL Script</a></p>
         <p><strong>Description:This project aims to design a database system for The Big Dipper theme park, focusing on point-of-sale operations for games. This system will manage payments for tickets, memberships, prize redemptions, and support for customer gameplay. It will include queries, procedures, and functionalities to ensure smooth transactions and customer satisfaction, following strict rules to maintain data accuracy, consistency, and completeness.</p>
         <p><strong>Build By:</strong> Oracle, mySQL</p>
     </section>
 
+<br>
 
+<h36. Cinima Ticketing System by C++</h3>
+    <section>
+        <p><strong>🌠 Star: </strong>⭐⭐</p>
+        <p><strong>🗒️ Field: </strong>C++ Programming</p>
+        <p><a href="https://github.com/kiaky0/Programming/tree/main/Utar_Project/CinemaTicketingSystem" target="_blank">Source Code</a></p>
+        <p><strong>Description: This is the projec that using C++ to perform the cinima ticketing system. User able to buy the ticket, while admin able to view the buying information and change the movie list</p>
+        <p><strong>Build By:</strong> C++</p>
+    </section>
 
 
 
