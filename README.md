@@ -28,7 +28,7 @@
     <p><strong>🌠 Star: </strong>⭐⭐⭐⭐</p>
     <p><strong>🗒️ Field: </strong>FrontEnd Development</p>
     <p><a href="https://kiaky0.github.io/Discover-Malaysia-Website/" target="_blank">Website Live</a></p>
-    <p><strong>Description:</strong> Do not hesitate to click on the live and visit the website.</p>
+    <p><strong>Description:</strong> The travaling website offers a stramlined navigation bar that contain the home page, exploring the destination page, blog, about us page and contact page. This website help people to explore the beauty if the Malaysia and include some features design. For example, looking for tour guide, finding the hotel, providing fnq section and destination explore.</p>
     <p><strong>Build By:</strong> HTML, CSS, JavaScript</p>
 </section>
 
