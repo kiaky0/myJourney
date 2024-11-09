@@ -30,7 +30,7 @@
     <p><strong>🌠 Star: </strong>⭐⭐⭐⭐</p>
     <p><strong>🗒️ Field: </strong>FrontEnd Development</p>
     <p><a href="https://kiaky0.github.io/Discover-Malaysia-Website/" target="_blank">Website Live</a></p>
-    <p><strong>Description:</strong> The travaling website offers a stramlined navigation bar that contain the home page, exploring the destination page, blog, about us page and contact page. This website help people to explore the beauty if the Malaysia and include some features design. For example, looking for tour guide, finding the hotel, providing fnq section and destination explore.</p>
+    <p><strong>The traveling website offers a streamlined navigation bar that includes the Home, Explore Destinations, Blog, About Us, and Contact pages. This website helps people explore the beauty of Malaysia and includes several thoughtfully designed features. For example, it offers options for finding tour guides, locating hotels, a FAQ section, and destination exploration.</p>
     <p><strong>Build By:</strong> HTML, CSS, JavaScript</p>
 </section>
 
