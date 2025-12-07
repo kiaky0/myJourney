@@ -17,13 +17,13 @@
 
 <div align="center">
   <p>
-    <a align="center" href="" target="_blank">
+    <a align="center" href="" target="">
       <img
         width="850"
         src="https://github.com/kiaky0/myJourney/blob/main/resources/phpwebview.png"
       >
     </a>
-  </p>1
+  </p>
   <br>
 </div>
 <section>
