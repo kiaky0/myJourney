@@ -13,6 +13,34 @@
 
 <h1 align="center">📝 My Project Summary</h1>
     
+<h3>1. Student Routine Organiser - Server side web application with PHP</h3>
+
+<div align="center">
+  <p>
+    <a align="center" href="" target="_blank">
+      <img
+        width="850"
+        src=""
+      >
+    </a>
+  </p>1
+  <br>
+</div>
+<section>
+    <p><strong>🌠 Star: </strong>⭐⭐⭐⭐</p>
+    <p><strong>🗒️ Field: </strong>FrontEnd Development</p>
+    <p><a href="https://github.com/kiaky0/student-routine-organizer" target="_blank">Full Code</a></p>
+    <p><strong>The Student Routine Organizer is a web application designed to help students manage and improve their daily routines in one centralized platform. The system includes four main modules: Exercise Tracker, Diary Journal, Money Tracker, and Habit Tracker. Each module allows users to record, view, edit, and delete their personal data, helping them stay organized and build better habits.
+
+The application uses PHP, MySQL, and follows a 3-tier architecture, with a centralized login system where each user registers and logs in once to access all modules. All user data is stored securely and linked to individual accounts. The system aims to provide a simple, user-friendly solution for students to track their health, emotions, finances, and habits in one place.</p>
+    <p><strong>Build By:</strong> HTML, CSS, JavaScript, PHP</p>
+</section>
+
+<br>
+
+
+<h1 align="center">📝 My Project Summary</h1>
+    
 <h3>1. Visit Malaysia Tourism Website</h3>
 
 <div align="center">
