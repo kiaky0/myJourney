@@ -12,6 +12,29 @@
 <br/>
 
 <h1 align="center">📝 My Project Summary</h1>
+
+<h3>1. Crow monitoring System</h3>
+
+<div align="center">
+  <p>
+    <a align="center" href="" target="">
+      <img
+        width="850"
+        src=""
+      >
+    </a>
+  </p>
+  <br>
+</div>
+<section>
+    <p><strong>🌠 Star: </strong>⭐⭐⭐⭐⭐</p>
+    <p><strong>🗒️ Field: </strong>Mobile application, Object Detection, Deeplearning</p>
+    <p><a href="https://github.com/kiaky0/student-routine-organizer" target="_blank">Full Code</a></p>
+    <p><strong>The developed system is a real-time crowd monitoring and analytics platform designed to detect people, track their movement, and analyze crowd behavior using live video streamed from a mobile device. The server receives each frame through a Flask API, processes it instantly, and returns key analytics such as total people detected, ROI (Region of Interest) count, directional in/out counting, and dwell time inside the ROI. With real-time processing, the system updates results continuously as movement happens, making it suitable for crowd control, security monitoring, and space-usage analysis.
+
+To achieve this, the system integrates several powerful frameworks. YOLOv11, implemented with PyTorch, performs high-speed person detection and ID-based tracking on every incoming frame. Flask acts as the backend framework for handling communication, receiving settings (ROI, lines, thresholds) and processing uploaded video frames. OpenCV is used for image decoding, ROI geometric checks, line-crossing logic, and visualization. Together, these frameworks form a fast, lightweight, and effective real-time computer vision pipeline capable of supporting mobile-to-server crowd analytics.</p>
+    <p><strong>Build By:</strong> </p>
+</section>
     
 <h3>1. Student Routine Organiser - Server side web application with PHP</h3>
 
